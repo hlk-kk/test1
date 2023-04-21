@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-21T06:59:07.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="J7rWjfKDvuuJ1MBKBHzW" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-21T07:00:31.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="_MJ6dC2fXOa7OfxfqvjR" version="21.2.1" type="github">
   <diagram name="第 1 页" id="eGFgUKJ97gLsY5K9XayQ">
     <mxGraphModel dx="1108" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -13,6 +13,9 @@
         <mxCell id="fAcXpnXrD-QuiTBWeKrF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fAcXpnXrD-QuiTBWeKrF-11" target="fAcXpnXrD-QuiTBWeKrF-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fAcXpnXrD-QuiTBWeKrF-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fAcXpnXrD-QuiTBWeKrF-11" target="fAcXpnXrD-QuiTBWeKrF-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fAcXpnXrD-QuiTBWeKrF-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="330" y="340" width="310" height="310" as="geometry" />
         </mxCell>
@@ -20,13 +23,13 @@
           <mxGeometry x="760" y="495" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAcXpnXrD-QuiTBWeKrF-4" value="对象存储服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="140" width="120" height="40" as="geometry" />
+          <mxGeometry x="50" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAcXpnXrD-QuiTBWeKrF-5" value="其他" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="555" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fAcXpnXrD-QuiTBWeKrF-6" value="1.上传文件能力，上传成功后提供文件长链、短链访问能力&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.提供上传回调能力&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3.提供文件下载能力&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4.提供上传文件重命名能力&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5.提供文件检索能力&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;6.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="120" width="290" height="170" as="geometry" />
+        <mxCell id="fAcXpnXrD-QuiTBWeKrF-6" value="1.上传文件能力，上传成功后提供文件长链、短链访问能力&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.提供上传回调能力&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3.提供文件下载能力&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4.提供上传文件重命名能力&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5.提供文件检索能力&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="160" width="330" height="130" as="geometry" />
         </mxCell>
         <mxCell id="fAcXpnXrD-QuiTBWeKrF-8" value="mysql" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="705" width="120" height="60" as="geometry" />
